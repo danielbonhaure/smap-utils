@@ -1,0 +1,10 @@
+# Archivos de ejemplo (formato HDF)
+archivos_h5/smap_v4/*
+!archivos_h5/smap_v4/.gitkeep
+archivos_h5/smap_v5/*
+!archivos_h5/smap_v5/.gitkeep
+
+# Archvos de ejemplo (formato NetCDF)
+archivos_netcdf/smap_v4/*
+!archivos_netcdf/smap_v4/.gitkeep
+
